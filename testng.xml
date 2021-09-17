@@ -1,0 +1,9 @@
+<suite name = "uMhlathuze Automation Test Suite">
+    <test name ="uMhlathuze Test cases">
+<classes>
+    <class name ="LoginTest"> </class>
+    <class name ="HomepageTest"> </class>
+
+</classes>
+    </test>
+</suite>
